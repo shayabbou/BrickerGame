@@ -14,8 +14,7 @@ to break as many bricks as you can without losing the ball.
 hearts with the main paddle.
 - Complete each level by breaking all bricks without losing all lives.
 - The game ends when all lives are lost or all levels are completed.
-- The default layout is 8 bricks in a row and 7 in a column, but you can change
- it using the command line arguments '<cols> <rows>'.
+- The default layout is 8 bricks in a row and 7 in a column.
 
 
 ## Usage
