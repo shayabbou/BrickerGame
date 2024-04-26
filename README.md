@@ -40,14 +40,10 @@ hearts with the main paddle.
 To play BrickGame, follow these steps:
 1. Fork the Repository: Click on the "Fork" button in the upper-right corner of the repository's page. This action will create a copy of the repository in your GitHub account.
 2. Clone this repository to your local machine using `git clone https://github.com/shayabbou/BrickerGame.git`.
-3. Navigate to the repository directory by running `cd BrickerGame`.
-4. Compile all Java files in the directory using a Java compiler.
-   You can use the wildcard (*) to compile all Java files at once:
-   ```bash
-   javac *.java
-4. In order to run the game - 'java BrickerGameManager'.
+3. Navigate to the repository directory, open BrickerGame directory.
+4. Open BrickerGame\src\bricker\main\BrickerGameManager file and run it.
 5. Start playing and enjoy!
 
-## Video Link
+## VideoLink
 
 https://www.loom.com/share/c5f44c74d5cb4d2fb67b1ded64ea01ed?sid=72ef9f91-f07d-40d3-a694-96bfdcc1186b
