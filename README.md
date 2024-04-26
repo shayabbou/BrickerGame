@@ -48,6 +48,6 @@ To play BrickGame, follow these steps:
 4. In order to run the game - 'java BrickerGameManager'.
 5. Start playing and enjoy!
 
-## VideoLink
+## Video Link
 
 https://www.loom.com/share/c5f44c74d5cb4d2fb67b1ded64ea01ed?sid=72ef9f91-f07d-40d3-a694-96bfdcc1186b
